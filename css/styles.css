@@ -77,6 +77,9 @@ strong {
 .sq-4 ol {
   padding: 0;
 }
+
+/* footer Styles */
+
 .footer {
   background-color: #641E16
 }
@@ -128,7 +131,7 @@ strong {
 
 /* Center footer , Display Descriptions on Mobile */
 
-@media screen and (max-width: 448px) {
+@media screen and (max-width: 480px) {
     .footer {
       text-align: center;
     }
