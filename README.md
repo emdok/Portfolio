@@ -12,6 +12,8 @@ This site was creating to display the work done for the past 4 weeks in Intro to
 
 To view this site, head to this GitHub Pages link here:
 
+https://emdok.github.io/Portfolio/
+
 ## Support and contact details
 
 dokkenemily@gmail.com
