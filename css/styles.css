@@ -77,7 +77,20 @@ strong {
 .sq-4 ol {
   padding: 0;
 }
-
+.footer {
+  background-color: #641E16
+}
+.footer p{
+  font-size: 15px;
+}
+.footer #name {
+  margin: 25px;
+  float: left;
+}
+.footer #email {
+  margin: 25px;
+  float: right;
+}
 /* Span Hover Styles */
 
 .desc {
