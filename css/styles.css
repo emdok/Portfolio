@@ -122,3 +122,20 @@ strong {
         display: block;
     }
 }
+
+/* Center footer , Display Descriptions on Mobile */
+
+@media screen and (max-width: 448px) {
+    .footer {
+      text-align: center;
+    }
+    .footer #name {
+        float: none;
+    }
+    .footer #email {
+        float: none;
+    }
+    .desc {
+      display: block;
+    }
+}
