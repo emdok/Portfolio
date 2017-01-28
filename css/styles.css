@@ -121,6 +121,9 @@ strong {
     .row-eq-height {
         display: block;
     }
+    .desc {
+      display: block;
+    }
 }
 
 /* Center footer , Display Descriptions on Mobile */
