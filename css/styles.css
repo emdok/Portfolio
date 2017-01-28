@@ -35,24 +35,24 @@ strong {
 
 .sq-1 {
   background-color: #33D5C6;
-  padding-bottom: 77px;
-  padding-top: 77px;
+  padding-bottom: 10%;
+  padding-top: 10%;
 }
 .sq-1 img {
-  width: 60%;
+  width: 50%;
 }
 .sq-2 {
   background-color: #DD3B71;
-  padding-bottom: 225px;
-  padding-top: 225px;
+  padding-top: 15%;
+  padding-bottom: 10%;
 }
 .sq-2 h1:hover .desc {
   display: block;
 }
 .sq-3 {
   background-color: #F48E2E;
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 15%;
+  padding-bottom: 10%;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
@@ -63,8 +63,8 @@ strong {
 }
 .sq-4 {
   background-color: #995EF0;
-  padding-top: 145px;
-  padding-bottom: 145px;
+  padding-top: 15%;
+  padding-bottom: 10%;
   margin: 0;
   text-align: center;
 }
@@ -95,4 +95,17 @@ strong {
 
 .row-eq-height {
   display: flex;
+}
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+}
+
+/* Stack Squares on Small Screen*/
+
+@media screen and (max-width: 991px) {
+    .row-eq-height {
+        display: block;
+    }
 }
