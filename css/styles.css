@@ -1,0 +1,20 @@
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  color: #fff;
+  font-size: 80px
+}
+.sq-1 {
+  background-color: #33D5C6;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.sq-1 img {
+  width: 60%;
+}
+.sq-2 {
+  background-color: #DD3B71;
+  padding-bottom: 225px;
+  padding-top: 225px;
+}
