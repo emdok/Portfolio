@@ -23,10 +23,6 @@ a:hover {
   color: #33D5C6;
   text-decoration: none;
 }
-a:active {
-  color: #33D5C6;
-  text-decoration: none;
-}
 strong {
   color: #000;
 }
@@ -56,7 +52,6 @@ strong {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
-
 .sq-3 ul {
   list-style-type: none;
   padding: 0;
@@ -112,7 +107,6 @@ strong {
 .row-eq-height {
   display: flex;
 }
-
 .vertical-center {
   display: flex;
   align-items: center;
